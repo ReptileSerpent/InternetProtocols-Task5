@@ -1,0 +1,4 @@
+from:<example@example.example>
+to:<example@example.example>,<example@example.example>
+subject:тест smtp клиента
+files:user_files/test.png,user_files/test2.png

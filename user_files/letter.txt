@@ -1,0 +1,2 @@
+Тест SMTP клиента
+SMTP client test
